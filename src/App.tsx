@@ -81,7 +81,7 @@ const ClockText = styled.div<{ size: number }>`
   top: ${({ size }) => (size + 3 * window.innerHeight) / 4}px;
   left: 50%;
   color: ${Consts.MAINCOLOR};
-  font-size: ${({ size }) => size / 8}px;
+  font-size: ${({ size }) => Math.min(size / 8, window.innerHeight / 16)}px;
   font-family: "Squada One";
   letter-spacing: -.02em;
   text-align: center;
