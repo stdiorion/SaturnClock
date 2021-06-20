@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SaturnClock/static/css/main.0cba7479.chunk.css",
-    "main.js": "/SaturnClock/static/js/main.0d3436cb.chunk.js",
-    "main.js.map": "/SaturnClock/static/js/main.0d3436cb.chunk.js.map",
+    "main.js": "/SaturnClock/static/js/main.a0ee8287.chunk.js",
+    "main.js.map": "/SaturnClock/static/js/main.a0ee8287.chunk.js.map",
     "runtime-main.js": "/SaturnClock/static/js/runtime-main.04abdb7a.js",
     "runtime-main.js.map": "/SaturnClock/static/js/runtime-main.04abdb7a.js.map",
     "static/js/2.05077d2b.chunk.js": "/SaturnClock/static/js/2.05077d2b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.04abdb7a.js",
     "static/js/2.05077d2b.chunk.js",
     "static/css/main.0cba7479.chunk.css",
-    "static/js/main.0d3436cb.chunk.js"
+    "static/js/main.a0ee8287.chunk.js"
   ]
 }
