@@ -4,3 +4,4 @@
 
 （土星の極における自転周期 36839 (秒) = 11 × 17 × 197）
 
+動くようになりました　→　https://takelifetime.github.io/SaturnClock/
